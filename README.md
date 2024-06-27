@@ -1,4 +1,4 @@
-# ACT: Action Chunking with Transformers
+# 627-language conditioned vision reasoning for imitation learning
 
 ### Repo Structure
 - ``imitate_episodes.py`` Train and Evaluate ACT
